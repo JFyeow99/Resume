@@ -7,7 +7,7 @@
 
 ## Profile
 
-Mobile Engineer with 5 years building enterprise React Native apps with 100k+ downloads across Google Play, App Store, and Huawei AppGallery. Focused on offline-first architecture, on-device AI, and native Android/iOS integration.
+Mobile Engineer with 5 years building enterprise React Native apps with 100k+ downloads across Google Play, App Store, and Huawei AppGallery. Focused on modernizing legacy applications — architecture, offline attendance support, on-device AI, and native Android/iOS integration.
 
 ---
 
